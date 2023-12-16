@@ -1,0 +1,1 @@
+docker-compose -p ehksperiment1 up -d

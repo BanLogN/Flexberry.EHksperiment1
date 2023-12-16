@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "E hksperiment1",
+  "applicationTitle": "E hksperiment1",
+  "items": [
+    {
+      "link": null,
+      "menuName": "e-hksperiment1",
+      "caption": "EHksperiment1",
+      "title": "EHksperiment1",
+      "children": [
+        {
+          "link": "i-i-s-e-hksperiment1-прайс-l",
+          "menuName": null,
+          "caption": "Прайс",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-e-hksperiment1-услуги-l",
+          "menuName": null,
+          "caption": "Услуги",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-e-hksperiment1-список-услуг-l",
+          "menuName": null,
+          "caption": "Список услуг",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

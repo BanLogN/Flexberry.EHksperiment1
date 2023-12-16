@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-e-hksperiment1-услуги-e",
+  "editForm": "i-i-s-e-hksperiment1-услуги-e",
+  "external": false,
+  "caption": "Услуги",
+  "name": "IISEHksperiment1УслугиL",
+  "className": "УслугиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-e-hksperiment1-услуги",
+      "modelProjection": "УслугиL"
+    }
+  ]
+}

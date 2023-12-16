@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Список услуг",
+  "name": "IISEHksperiment1СписокУслугE",
+  "className": "СписокУслугE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-e-hksperiment1-список-услуг",
+      "modelProjection": "СписокУслугE"
+    }
+  ]
+}

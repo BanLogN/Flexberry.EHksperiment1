@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Прайс",
+      "projection": "ПрайсL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Услуги",
+  "name": "IISEHksperiment1УслугиE",
+  "className": "УслугиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-e-hksperiment1-услуги",
+      "modelProjection": "УслугиE"
+    }
+  ]
+}
